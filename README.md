@@ -1,6 +1,6 @@
 # 📐 Mathematics – Manim Visualizations
 
-Mathematics is the language behind everything we explore at Sam SciTech. This folder contains Manim-based visual code used to transform abstract mathematical ideas into clear, cinematic animations - making math intuitive, visual, and deeply connected to physics, astronomy, and the beauty of the universe.
+Mathematics is the language behind everything we explore at **Sam SciTech**. This folder contains Manim-based visual code used to transform abstract mathematical ideas into clear, cinematic animations - making math intuitive, visual, and deeply connected to physics, astronomy, and the beauty of the universe.
 
 This repository contains **high-quality Manim animations** created for the
 **Sam SciTech YouTube Channel**, focused on explaining mathematical concepts
@@ -36,17 +36,6 @@ and science enthusiasts.
 ---
 
 ## 📂 Repository Structure
-Mathematics/
-│── Linear_Algebra/
-│ └── Vector_Visualizations/
-│ ├── vector_vs_line.py
-│ ├── vector_components.py
-│
-│── Calculus/
-│── Geometry/
-│── README.md
-
-
 
 Each folder represents a **topic**, and each `.py` file represents
 a **self-contained Manim scene**.
@@ -56,6 +45,9 @@ a **self-contained Manim scene**.
 ## 🎥 YouTube Channel
 
 📺 **Sam SciTech**  
+
+**Link : https://www.youtube.com/@SamSciTech**
+
 Content focuses on:
 - Mathematics
 - Physics
