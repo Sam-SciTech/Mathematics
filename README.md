@@ -36,4 +36,65 @@ and science enthusiasts.
 ---
 
 ## 📂 Repository Structure
+Mathematics/
+│── Linear_Algebra/
+│ └── Vector_Visualizations/
+│ ├── vector_vs_line.py
+│ ├── vector_components.py
+│
+│── Calculus/
+│── Geometry/
+│── README.md
 
+
+
+Each folder represents a **topic**, and each `.py` file represents
+a **self-contained Manim scene**.
+
+---
+
+## 🎥 YouTube Channel
+
+📺 **Sam SciTech**  
+Content focuses on:
+- Mathematics
+- Physics
+- Quantum Mechanics
+- Astrophysics
+- Scientific Visualization
+
+Animations from this repository are directly used in YouTube videos.
+
+---
+
+## ⚙️ Tech Stack
+
+- **Manim Community Edition**
+- Python 3.10+
+- NumPy
+
+---
+
+## ▶️ How to Run an Animation
+
+```bash
+manim -pqh vector_vs_line.py VectorVsLine
+```
+---
+
+📜 License
+
+This project is open for educational and non-commercial use.
+Credits appreciated if reused.
+
+---
+
+🤝 Contributions
+
+This repository is currently maintained for educational content creation.
+Suggestions and improvements are welcome
+
+
+---
+
+**Thank you for your support**
